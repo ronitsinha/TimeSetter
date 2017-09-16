@@ -1,0 +1,2 @@
+#Python Date and Time Setter#
+Just a simple program to set windows date and time from [just-the-time](http://just-the-time.appspot.com/) using pywin32. I made after I installed Ubuntu on my computer alongside Windows. Upon doing this, I noticed the time in Windows would become offset when I booted into Windows after using Ubuntu.
